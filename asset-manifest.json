@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/verbit-karaoke/static/css/main.aa458b79.css",
+    "main.js": "/verbit-karaoke/static/js/main.a8b27090.js",
+    "index.html": "/verbit-karaoke/index.html",
+    "main.aa458b79.css.map": "/verbit-karaoke/static/css/main.aa458b79.css.map",
+    "main.a8b27090.js.map": "/verbit-karaoke/static/js/main.a8b27090.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa458b79.css",
+    "static/js/main.a8b27090.js"
+  ]
+}
