@@ -1,0 +1,17 @@
+.mediaPlayer {
+  width: 100%;
+  border-radius: 5px;
+  margin-top: 20px;
+}
+
+.mediaPlayer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  animation: playerReady 1s ease-out forwards;
+}
+
+@keyframes playerReady {
+  from { transform: scale(1); opacity: 0.5; }
+  to { transform: scale(1); opacity: 1; }
+}

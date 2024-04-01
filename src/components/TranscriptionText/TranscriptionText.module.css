@@ -1,0 +1,14 @@
+.transcriptionContainer {
+    max-height: 20vh;
+    overflow-y: auto;
+    padding: 10px;
+    border: 1px solid #e1e4e8;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.activeWord {
+    color: #000;
+    background-color: #007bff63;
+    border-radius: 5px;
+}
